@@ -260,18 +260,18 @@ the claim lists and run v2, so there is a number to put next to 0.933.
 
 ## Notes
 
-I want to keep working on this. The obvious next piece is the one I could not
-finish here: writing the claim lists, running v2, and then hand-labelling the 30
-items so there is an agreement number rather than a single unvalidated judge.
+I want to keep going with this. The next piece is the one I couldn't finish
+here: write the claim lists, run v2, then hand-label all 30 items so there's an
+agreement number instead of one unvalidated judge.
 
-I would like to write this up as a Substack post if that is alright — the
-critique, what the instrument could not tell me, and what validating a judge on
-30 items actually buys you. Happy not to, or to hold it until you have said
-it is fine. My publication: https://messinecessity.substack.com
+I'd like to write it up on Substack if that's alright. The critique, what the
+instrument couldn't tell me, and what validating a judge on 30 items actually
+buys you. Happy to hold it until you say it's fine.
+My last piece: https://substack.com/home/post/p-215884637
 
-Context on where I am starting from: I have been doing eval work for about five
-days. Most of what is in this write-up I learnt this week, which is also why
-the parts I flagged as needing colleagues — someone who knows election law to
-check the ground truth, a second labeller so the agreement number means
-something — are things I would genuinely want rather than things I am adding
-for form.
+For context: I've been doing eval work for about five days, self-taught, no
+supervisor. I built my own tooling for it along the way. That's also why the
+places I said I'd want colleagues are real asks, not politeness. Someone who
+knows election law should check my ground truth, and a second labeller should
+do the same 30 items. I'm currently the only labeller and I also wrote the
+rubric, which isn't a position I should be in.
