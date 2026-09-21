@@ -255,3 +255,23 @@ the claim lists and run v2, so there is a number to put next to 0.933.
 - The category definitions in this write-up -- the weakness wording and ranking, and the
   decision about what claim lists would have to contain -- are mine. The agent drafted prose
   and code; I cut it.
+
+---
+
+## Notes
+
+I want to keep working on this. The obvious next piece is the one I could not
+finish here: writing the claim lists, running v2, and then hand-labelling the 30
+items so there is an agreement number rather than a single unvalidated judge.
+
+I would like to write this up as a Substack post if that is alright — the
+critique, what the instrument could not tell me, and what validating a judge on
+30 items actually buys you. Happy not to, or to hold it until you have said
+it is fine. My publication: https://messinecessity.substack.com
+
+Context on where I am starting from: I have been doing eval work for about five
+days. Most of what is in this write-up I learnt this week, which is also why
+the parts I flagged as needing colleagues — someone who knows election law to
+check the ground truth, a second labeller so the agreement number means
+something — are things I would genuinely want rather than things I am adding
+for form.
